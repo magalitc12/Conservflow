@@ -1,0 +1,6 @@
+[2025-04-05 11:26:08] local.DEBUG: {"mensaje":"SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_conserflow.costos_viaticos' doesn't exist (SQL: select 
+                    sum(combustible+casetas+alimentos+
+                    hospedaje+boletos+hidratacion+otros) as total from `costos_viaticos` as `cv` where `cv`.`proyecto_id` = 340 limit 1)","file":"C:\\desarrollo\\conserflow2021\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php","line":664,"user":"RAMON CRUZ MARTINEZ"}  
+[2025-04-05 11:26:11] local.DEBUG: {"mensaje":"SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_conserflow.costos_viaticos' doesn't exist (SQL: select 
+                    sum(combustible+casetas+alimentos+
+                    hospedaje+boletos+hidratacion+otros) as total from `costos_viaticos` as `cv` where `cv`.`proyecto_id` = 518 limit 1)","file":"C:\\desarrollo\\conserflow2021\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php","line":664,"user":"RAMON CRUZ MARTINEZ"}  

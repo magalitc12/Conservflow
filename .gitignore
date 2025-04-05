@@ -1,0 +1,7 @@
+vendor/
+node_modules/
+.vscode/launch.json
+resources/assets/js/app.js
+ngrok
+public/docs/SGI/*
+public/temp/
